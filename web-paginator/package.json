@@ -1,0 +1,21 @@
+{
+  "name": "web-paginator",
+  "version": "1.0.2",
+  "description": "web-paginator is simple paginator ui component for common websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "a"
+  },
+  "keywords": [
+    "paginator",
+    "pagination",
+    "page"
+  ],
+  "author": ".modernator",
+  "license": "MIT",
+  "dependencies": {}
+}

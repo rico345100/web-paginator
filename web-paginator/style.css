@@ -1,0 +1,25 @@
+.ui-paginator {
+	font-size: 0;
+}
+	.ui-paginator * {
+		box-sizing: border-box;
+	}
+	.ui-paginator > ul > li {
+		display: inline-block;
+	}
+		.ui-paginator > ul > li > a {
+			display: inline-block;
+			padding: 8px;
+			width: 32px;
+			text-align: center;
+			color: #4e8ddf;
+			font-size: 12px;
+			text-decoration: none;
+		}
+		.ui-paginator > ul > li > a:hover {
+			background-color: #eee;
+		}
+		.ui-paginator > ul > li > a.active {
+			background-color: #4e8ddf;
+			color: #fff;
+		}
